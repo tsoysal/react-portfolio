@@ -33,7 +33,7 @@ function Contact() {
       <footer>
         <ul>
           <li>
-            <a href="https://github.com/berksysl" target="_blank" rel="noreferrer">GitHub</a>
+            <a href="https://github.com/tsoysal" target="_blank" rel="noreferrer">GitHub</a>
           </li>
           <li>
             <a href="https://twitter.com/berksysl_" target="_blank" rel="noreferrer">Twitter</a>
@@ -42,7 +42,7 @@ function Contact() {
             <a href="https://www.linkedin.com/in/tahaberk-soysal" target="_blank" rel="noreferrer">LinkedIn</a>
           </li>
         </ul>
-        <span>© 2023 - 2023 www.tahaberksoysal.com - All Rights Reserved.</span>
+        <span>© 2023 - Tahaberk Soysal - All Rights Reserved.</span>
       </footer>
     </div>
   );
